@@ -1,0 +1,3 @@
+C:\Users\ferik\Desktop\pg\Pegasus Spyware Zero Click\obj\Debug\net461\PEGASUS FULL VERSION.csproj.AssemblyReference.cache
+C:\Users\ferik\Desktop\pg\Pegasus Spyware Zero Click\obj\Debug\net461\PEGASUS FULL VERSION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferik\Desktop\pg\Pegasus Spyware Zero Click\obj\Debug\net461\PEGASUS FULL VERSION.csproj.CoreCompileInputs.cache

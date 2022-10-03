@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNfZ0WjLEn87Yl1aXm73MxDIqx2j1CD9JewgeIc6lCj3t2WelybGGaON1P8l69FNvd/0/4quzvHkomkS3oFRJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferik\\Desktop\\pg\\Pegasus Spyware Zero Click\\PEGASUS FULL VERSION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferik\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.5\\guna.ui2.winforms.2.0.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}
